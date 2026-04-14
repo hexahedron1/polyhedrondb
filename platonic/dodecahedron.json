@@ -1,0 +1,28 @@
+{
+    "name": "Regular dodecahedron",
+    "description": "The regular dodecahedron is a platonic solid with 12 regular pentagon faces",
+    "sections": {
+        "Edges": "30",
+        "Vertices": "20",
+        "Schläfli symbol": "{5, 3}",
+        "Properties": "Convex\nIsogonal\nIsohedral\nIsotoxal",
+        "Dual": "Regular icosahedron",
+        "Faces": "2 Regular pentagons",
+        "Dihedral angle": "~116.565°",
+        "Symmetry group": "Icosahedral"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.svg/250px-Dodecahedron.svg.png",
+    "vfig": null,
+    "trivia": [
+        "The regular dodecahedron is commonly used as a D12 in tabletop games",
+        "Plato originally stated that the dodecahedron represents universe as a whole"
+    ],
+    "link": "https://en.wikipedia.org/wiki/Regular_dodecahedron",
+    "otherNames": [
+        "Dodecahedron",
+        "Duodecahedron"
+    ],
+    "operations": {
+        "Dual": "Regular icosahedron"
+    }
+}

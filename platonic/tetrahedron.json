@@ -1,0 +1,29 @@
+{
+    "name": "Regular tetrahedron",
+    "description": "The regular tetrahedron is a platonic solid with 4 equilateral triangle faces. It is the simplest regular polyhedron",
+    "sections": {
+        "Edges": "6",
+        "Vertices": "4",
+        "Schläfli symbol": "{4, 4}",
+        "Properties": "Convex\nIsogonal\nIsohedral\nIsotoxal\nDeltahedron\nPyramid",
+        "Dual": "Itself",
+        "Faces": "4 Equilateral triangles",
+        "Dihedral angle": "~70.529°",
+        "Symmetry group": "Tetrahedral"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tetrahedron_%28green%29.png/250px-Tetrahedron_%28green%29.png",
+    "vfig": "",
+    "trivia": [
+        "The tetrahedron is the 3-dimensional simplex",
+        "The regular tetrahedron is commonly used as a D4 in tabletop games"
+    ],
+    "link": "https://en.wikipedia.org/wiki/Regular_tetrahedron",
+    "otherNames": [
+        "Tetrahedron",
+        "Triangular pyramid"
+    ],
+    "operations": {
+        "Rectify": "Octahedron",
+        "Snub": "Icosahedron"
+    }
+}

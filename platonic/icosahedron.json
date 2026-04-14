@@ -1,0 +1,33 @@
+{
+    "name": "Regular icosahedron",
+    "description": "The regular icosahedron is a platonic solid with 20 equilatral triangle faces. It can be constructed by taking the dual of a regular dodecahedron, gyroelongating a pentagonal bipyramid or taking the snub of a regular tetrahedron. It is one of the 8 strictly convex deltahedra",
+    "sections": {
+        "Edges": "30",
+        "Vertices": "12",
+        "Schläfli symbol": "{3, 5}",
+        "Properties": "Convex\nComposite\nIsogonal\nIsohedral\nIsotoxal\nDeltahedron",
+        "Dual": "Regular dodecahedron",
+        "Faces": "20 Equilateral triangle",
+        "Dihedral angle": "~138.190°",
+        "Symmetry group": "Icosahedral"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Icosahedron.jpg/250px-Icosahedron.jpg",
+    "vfig": null,
+    "trivia": [
+        "Three perpendicular golden rectangles can form an icosahedron if their corners are connected with edges",
+        "Many viruses have an icosahedral shell due to it being the simplest form that can be arranged from protein subunits",
+        "That's me",
+        "There are 43380 possible nets for the regular icosahedron",
+        "The regular icosahedron is commonly used as a D20 in tabletop games",
+        "Plato originally stated that the icosahedron represents water as an element"
+    ],
+    "link": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Icosahedron.jpg",
+    "otherNames": [
+        "Icosahedron",
+        "Gyroelongated pentagonal bipyramid",
+        "Snub tetrahedron"
+    ],
+    "operations": {
+        "Dual": "Regular dodecahedron"
+    }
+}

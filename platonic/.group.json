@@ -1,0 +1,13 @@
+{
+    "name": "Platonic solids",
+    "description": "Convex regular polyhedra.",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Platonic_Solids_Transparent.svg/1280px-Platonic_Solids_Transparent.svg.png",
+    "sections": {
+        "Properties": "Vertex transitive\nEdge transitive\nFace transitive",
+        "Derivatives": "Archimedian solids\nJohnson solids\nKepler-Poinsot polyhedra\nUniform star polyhedra"
+    },
+    "trivia": [
+        "3 of the 5 platonic solids have been synthesized as [hydrocarbons](https://en.wikipedia.org/wiki/Platonic_hydrocarbon)",
+        "Many viruses have an icosahedral shell due to it being the simplest form that can be arranged from protein subunits"
+    ]
+}
