@@ -4,14 +4,14 @@
     "sections": {
         "Edges": "6",
         "Vertices": "4",
-        "Schläfli symbol": "{4, 4}",
+        "Schläfli symbol": "{3, 3}",
         "Properties": "Convex\nIsogonal\nIsohedral\nIsotoxal\nDeltahedron\nPyramid",
         "Dual": "Itself",
         "Faces": "4 Equilateral triangles",
         "Dihedral angle": "~70.529°",
         "Symmetry group": "Tetrahedral"
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tetrahedron_%28green%29.png/250px-Tetrahedron_%28green%29.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Tetrahedron.png",
     "vfig": "",
     "trivia": [
         "The tetrahedron is the 3-dimensional simplex",

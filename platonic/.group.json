@@ -1,6 +1,6 @@
 {
     "name": "Platonic solids",
-    "description": "Convex regular polyhedra.",
+    "description": "Convex regular polyhedra. They are vertex, edge and face transitive and are the basis of archimedian, johnson and many more polyhedra",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Platonic_Solids_Transparent.svg/1280px-Platonic_Solids_Transparent.svg.png",
     "sections": {
         "Properties": "Vertex transitive\nEdge transitive\nFace transitive",
@@ -8,6 +8,7 @@
     },
     "trivia": [
         "3 of the 5 platonic solids have been synthesized as [hydrocarbons](https://en.wikipedia.org/wiki/Platonic_hydrocarbon)",
-        "Many viruses have an icosahedral shell due to it being the simplest form that can be arranged from protein subunits"
+        "Plato used his solids as geometric representations of the four elements (tetrahedron, cube, octahedron, icosahedron) and the universe itself (dodecahedron)",
+        "Kepler roughly approximated the orbits of planets in the solar system by sequentially circumscribing a sphere around each solid and another solid around the sphere"
     ]
 }

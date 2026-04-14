@@ -1,0 +1,28 @@
+{
+    "name": "Regular octahedron",
+    "description": "The regular octahedron is a platonic solid with 8 equilateral triangle faces. It can be constructed by taking the dual of a cube, rectifying a tetrahedron or attaching a square pyramid to itself",
+    "sections": {
+        "Edges": "12",
+        "Vertices": "6",
+        "Schläfli symbol": "{3, 4}",
+        "Properties": "Convex\nIsogonal\nIsohedral\nIsotoxal\nDeltahedron\nComposite",
+        "Dual": "Cube",
+        "Faces": "8 Equilateral triangles",
+        "Dihedral angle": "~70.529°",
+        "Symmetry group": "Octahedral"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Octahedron.png",
+    "vfig": "",
+    "trivia": [
+        "The regular octahedron is commonly used as a D8 in tabletop games"
+    ],
+    "link": "https://en.wikipedia.org/wiki/Regular_octahedron",
+    "otherNames": [
+        "Octahedron",
+        "Triangular antiprism",
+        "Square bipyramid"
+    ],
+    "operations": {
+        "Dual": "Cube"
+    }
+}
