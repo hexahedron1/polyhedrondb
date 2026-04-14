@@ -1,4 +1,20 @@
 This is a repository for the polyhedron explorer in [icosahedron](https://github.com/hexahedron1/icosahedron/)  
+Current checklist:  
+- [x] Platonic solids
+    - [ ] Platonic-archimedian connections
+    - [ ] Platonic-catalan connections
+    - [ ] Platonic-johnson connections
+    - [ ] Platonic-star polyhedron connections
+- [ ] Archimedian solids
+    - [ ] Archimedian-catalan connections
+    - [ ] Archimedian-johnson connections
+    - [ ] Archimedian-star polyhedron connections
+- [ ] Catalan solids
+- [ ] Johnson solids
+- [ ] Kepler-Poinsot polyhedra
+- [ ] Uniform star polyhedra
+- [ ] Polygons?
+- [ ] Tilings?
 # Groups
 Each group consists of a folder with a `.group.json` file that describes it and other json files for each polyhedron  
 The basic structure for the group file is:
