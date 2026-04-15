@@ -1,12 +1,12 @@
 {
     "name": "Cube",
-    "description": "The is a platonic solid with 6 square faces. It is the basis of the universal 3-dimensional cartesian coordinate system. It can be constructed by extruding a square into 3D by the right amount or taking the dual of an octahedron",
+    "description": "The cube is a platonic solid with 6 square faces. It is the basis of the universal 3-dimensional cartesian coordinate system. It can be constructed by extruding a square into 3D by the right amount or taking the dual of an octahedron",
     "sections": {
         "Edges": "12",
         "Vertices": "8",
         "Schläfli symbol": "{4, 3}",
         "Properties": "Convex\nIsogonal\nIsohedral\nIsotoxal",
-        "Dual": "Cube",
+        "Dual": "Octahedron",
         "Faces": "6 Squares",
         "Dihedral angle": "90°",
         "Symmetry group": "Octahedral"
@@ -17,7 +17,7 @@
         "The cube is an extremely widespread way to tile the plane and is widely used in voxel-based computer simulations",
         "The cube is used as the most common type of game die (D6)"
     ],
-    "link": "https://en.wikipedia.org/wiki/Regular_octahedron",
+    "link": "https://en.wikipedia.org/wiki/Cube",
     "otherNames": [
         "Regular hexahedron",
         "Square prism",
