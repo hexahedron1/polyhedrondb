@@ -6,7 +6,7 @@
         "Vertices": "8",
         "Schläfli symbol": "{4, 3}",
         "Properties": "Convex\nIsogonal\nIsohedral\nIsotoxal",
-        "Dual": "Regular Octahedron",
+        "Dual": "Regular octahedron",
         "Faces": "6 Squares",
         "Dihedral angle": "90°",
         "Symmetry group": "Octahedral"
@@ -14,7 +14,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Hexahedron.png",
     "vfig": "",
     "trivia": [
-        "The cube is an extremely widespread way to tile the plane and is widely used in voxel-based computer simulations",
+        "The cube is an extremely widespread way to tile 3D space and is widely used in voxel-based computer simulations",
         "The cube is used as the most common type of game die (D6)"
     ],
     "link": "https://en.wikipedia.org/wiki/Cube",
@@ -24,6 +24,6 @@
         "Triangular trapezohedron"
     ],
     "operations": {
-        "Dual": "Regular Octahedron"
+        "Dual": "Regular octahedron"
     }
 }
